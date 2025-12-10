@@ -37,3 +37,4 @@ All course content and design are credited to the Udemy course "The Ultimate Rea
 - [Jonas Schmedtmann](https://www.udemy.com/user/jonasschmedtmann/)
 - [ultimate-react-course](https://github.com/jonasschmedtmann/ultimate-react-course)
 - [The Ultimate React Course 2025: React, Next.js, Redux & More](https://www.udemy.com/course/the-ultimate-react-course/)
+ 
